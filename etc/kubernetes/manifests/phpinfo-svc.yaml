@@ -9,5 +9,5 @@ spec:
       protocol: TPC
   selector:
     matchlabels:
-      phpinfo: true
+      phpinfo: "true"
   type: ClusterIP
